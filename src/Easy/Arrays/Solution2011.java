@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Arrays;
 
 public class Solution2011 {
     int ans = 0;

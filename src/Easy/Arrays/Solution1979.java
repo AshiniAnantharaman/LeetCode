@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Arrays;
 
 class Solution1979 {
     public int findGCD(int[] nums) {

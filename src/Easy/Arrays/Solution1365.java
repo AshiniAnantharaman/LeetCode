@@ -1,5 +1,5 @@
 //67.95%
-package Easy;
+package Easy.Arrays;
 
 import java.util.Arrays;
 

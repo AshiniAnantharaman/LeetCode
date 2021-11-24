@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Arrays;
 
 public class Solution1672 {
     int[] sum = new int[100];

@@ -1,5 +1,5 @@
 //75.12%
-package Easy;
+package Easy.Arrays;
 
 public class Solution1512 {
     public int numIdenticalPairs(int[] nums) {

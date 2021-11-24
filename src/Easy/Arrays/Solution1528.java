@@ -1,6 +1,4 @@
-package Easy;
-
-import java.util.Arrays;
+package Easy.Arrays;
 
 public class Solution1528 {
     public String restoreString(String s, int[] indices) {
